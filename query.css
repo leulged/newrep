@@ -1,0 +1,184 @@
+@media only screen and (max-width:900px){
+    .all {
+        flex-wrap: wrap;
+        
+        
+    }
+    nav{
+        
+        margin-top: 10px;
+        font-size: 17px;
+        display: flex;
+        
+    }
+    
+    .br{
+        
+        letter-spacing: 5px;
+        margin-right: 10px;
+    }
+    .arch{
+        letter-spacing: 7px;
+         
+    }
+    .j{
+    margin-left:100px ;
+  
+    }
+    a{
+margin-left: 50px;    }
+   
+    .images-h1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image1{
+        width: 45%; 
+        
+        display: block;
+    }
+    
+    .image2{ 
+        width: 45%; 
+        display: block;
+          }
+    .image3{
+        width: 45%; 
+    }
+    .image4{ 
+        width: 45%; 
+     }
+.image-h2{
+ display: flex; 
+ flex-wrap:wrap ; 
+        }
+    .image5{ 
+        width: 45%; }
+    .image6{
+        width: 45%; 
+        
+        }
+    .image7{
+        width: 45%; 
+         }
+    .image8{ 
+        width: 45%; 
+     }
+    
+ 
+    
+.person-image {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.em{
+    width: 100%;
+}
+.priya{
+    margin-left: 20px;
+    width: 46.7%;
+
+}
+pre{
+        display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    overflow-x: auto;
+}
+}
+@media only screen and (max-width: 600px){ 
+    .all {
+        flex-wrap: wrap;
+        
+        
+    }
+    nav{
+        margin-left: 10px;
+        margin-top: 10px;
+        display: flex;
+        
+    }
+    .br{
+        
+        letter-spacing: 5px;
+        margin-right: 10px;
+    }
+    .arch{
+        letter-spacing: 7px;
+         
+    }
+    .j{
+    
+    display: none;
+    }
+    a{
+        margin-left: 25px;
+    }
+      
+.header{
+    display: flex;
+}
+    
+    
+    .images-h1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image1{
+        width: 100%; 
+        
+        display: block;
+    }
+    
+    .image2{ 
+        width: 100%; 
+        display: block;
+          }
+    .image3{
+        width: 100%; 
+    }
+    .image4{ 
+        width: 100%; 
+     }
+.image-h2{
+ display: flex; 
+ flex-wrap:wrap ; 
+        }
+    .image5{ 
+        width: 100%; 
+    height: 25vh; }
+    .image6{
+        width: 100%; 
+        
+        }
+    .image7{
+        width: 100%; 
+         }
+    .image8{ 
+        width: 100%; 
+     }
+    
+   
+    
+.person-image {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.priya{
+    margin-left: 20px;
+    width: 100%;
+
+}
+pre{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    overflow-x: auto;
+   object-fit: cover; 
+}
+.background{
+    display: none;
+}
+}
